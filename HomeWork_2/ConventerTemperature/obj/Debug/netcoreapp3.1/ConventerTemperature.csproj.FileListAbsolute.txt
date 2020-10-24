@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\bin\Debug\netcoreapp3.1\ConventerTemperature.deps.json
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\bin\Debug\netcoreapp3.1\ConventerTemperature.dll
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\bin\Debug\netcoreapp3.1\ConventerTemperature.pdb
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\obj\Debug\netcoreapp3.1\ConventerTemperature.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\obj\Debug\netcoreapp3.1\ConventerTemperature.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\obj\Debug\netcoreapp3.1\ConventerTemperature.dll
+C:\Users\Lenovo\source\repos\HomeWork_2\ConventerTemperature\obj\Debug\netcoreapp3.1\ConventerTemperature.pdb
